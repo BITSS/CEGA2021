@@ -17,7 +17,11 @@ output:
 editor_options: 
   chunk_output_type: console
 ---
-count: false
+background-image: url("Images/BITSSlogo.png"), url(Images/cega.png)
+background-size: contain, 200px
+background-position: 50% 100% , 0% 100% 
+count:true 
+
 <style>
 
 .center2 {
@@ -90,10 +94,6 @@ library(fontawesome)
 
 
 
-background-image: url("Images/BITSSlogo.png"), url(Images/cega.png)
-background-size: contain, 200px
-background-position: 50% 100% , 0% 100% 
-count:true 
 
 
 # [BITSS](https://bitss.org)   
@@ -151,13 +151,12 @@ count:true
 .font130[
 1. [Problems](#motivation)
 
-
 2. [Solutions](#bitss)
 
+3. [Accelerating Computational Reproducibility](#acre)
 
-4. [Accelerating Computational Reproducibility](#acre)
+4. [Open Policy Analysis](#opa)
 
-5. [Open Policy Analysis](#opa)
 
 ]
 
@@ -172,9 +171,9 @@ count:false
 
 2. [BITSS](#bitss)
 
-4. [Accelerating Computational Reproducibility](#acre)
+3. [Accelerating Computational Reproducibility](#acre)
 
-5. [Open Policy Analysis](#opa)
+4. [Open Policy Analysis](#opa)
 
 ]
 

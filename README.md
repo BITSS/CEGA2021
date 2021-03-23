@@ -4,7 +4,7 @@ Dictated by Fernando Hoces de la Guardia
 
 
 **Tuesday March 23:**  
-- 10:00 AM	- [Intro to BITSS](https://github.com/BITSS/CEGA2019/blob/master/20190423_Intro_BITSS.pptx)
+- 10:00 AM	- [Intro to BITSS](https://bitss.github.io/CEGA2021/)
 - 11:15 AM - Setup for hands-on session
 
 ****

@@ -211,7 +211,7 @@ background-size: contain
 background-position: 50% 100%  
 count:false
 
-# .font80[Researchers and Scientific Norms (Anderson et. al., 2007)]
+# .font80[Researchers sand Scientific Norms (Anderson et. al., 2007)]
 
 
 
@@ -221,7 +221,7 @@ background-size: contain
 background-position: 50% 100%  
 count:true
 
-# .font80[Researchers and Scientific Norms (Anderson et. al., 2007)]
+# .font80[Researchers aand Scientific Norms (Anderson et. al., 2007)]
 
 
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Research Transparency Trainning for EASST Fellows"
 author: "Fernando Hoces de la Guardia, BITSS"
+subtitle: ""
 date:  "`r format(as.Date('2021-03-23'), '%d %B %Y')` | [slides](https://bitss.github.io/CEGA2021/)"
 output: 
   xaringan::moon_reader:
@@ -206,7 +207,7 @@ count:false
 
 
 ---
-background-image: url("Images/AMdV2007_02.PNG")
+background-image: url("Images/AMdV2007_02.png")
 background-size: contain
 background-position: 50% 100%  
 count:false
@@ -225,7 +226,7 @@ count:true
 
 
 ---
-background-image: url("Images/Brodeur.png")
+background-image: url("Images/Brodeur.PNG")
 background-size: contain
 background-position: 50% 100%  
 

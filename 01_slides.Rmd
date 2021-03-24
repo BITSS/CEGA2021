@@ -1,5 +1,5 @@
 ---
-title: "Research Transparency Trainning for EASST Fellows"
+title: "Research Transparency Training for EASST Fellows"
 author: "Fernando Hoces de la Guardia, BITSS"
 subtitle: "Center for Effective Global Action"
 date:  "March 2021 | [slides](https://bitss.github.io/CEGA2021/)"

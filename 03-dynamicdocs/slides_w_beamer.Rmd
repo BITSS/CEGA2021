@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Documents using R: Hands-On"
-author: "| Fernando Hoces de la Guardia\n| BITSS   \n| -\n| Slides at \n|  <https://github.com/BITSS/CEGA2019>\n"
-date: "CEGA, \n October 2019"
+author: "| Fernando Hoces de la Guardia\n| BITSS   \n| -\n| Slides at \n|  <https://github.com/BITSS/CEGA2021>\n"
+date: "CEGA, \n March 2021"
 output:
   beamer_presentation:
     fig_caption: no

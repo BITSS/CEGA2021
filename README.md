@@ -8,8 +8,8 @@ Dictated by Fernando Hoces de la Guardia
 - 11:15 AM - Setup for hands-on session
 
 **Wednesday March 24**
-- 10:00 AM	- [Intro to Version Control](https://github.com/BITSS/CEGA2021/tree/master/01a-Git-GUI)
-- 10:45 AM	- [Intro to Dynamic Documents](https://github.com/BITSS/CEGA2021/tree/master/02-dynamicdocs)
+- 10:00 AM	- [Intro to Version Control](https://github.com/BITSS/CEGA2021/tree/master/02-Git-GUI)
+- 10:45 AM	- [Intro to Dynamic Documents](https://github.com/BITSS/CEGA2021/tree/master/03-dynamicdocs)
 
 
 
